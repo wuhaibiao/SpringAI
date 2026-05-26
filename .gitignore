@@ -14,3 +14,7 @@ qodana.yaml
 
 app/src/main/resources/application-dev.yml
 /docs
+
+# Local runtime logs
+*.log
+frontend/*.log
